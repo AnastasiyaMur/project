@@ -1,0 +1,3 @@
+re 2.2.1
+pandas 1.5.2
+os nt
